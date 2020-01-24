@@ -10,7 +10,7 @@ public class SeleniumDemo {
 	
 	WebDriver driver;
 	String URL="https://www.google.com/";
-	//comment added new
+	//comment added 
 	@BeforeClass
 	public void setup()
 	{
